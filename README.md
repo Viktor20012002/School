@@ -1,0 +1,2 @@
+# School
+IT kariera project
